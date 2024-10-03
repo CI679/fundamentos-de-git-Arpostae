@@ -108,3 +108,4 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * [GitHub community forum](https://github.community/)
 
 Hola, soy Jared y estoy haciendo cambios en el README de mi nueva rama.
+## No se crear conflictos pero si sé solucionarlos jaja, aprovecho y agrego un markdown profe
