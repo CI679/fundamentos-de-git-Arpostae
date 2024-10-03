@@ -1,1 +1,1 @@
-Se dejara este archivo para hacer un conflicto y resolverlo
+Se crea el conflicto.
